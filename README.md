@@ -28,3 +28,7 @@ Contiene los notebooks y la teoría del curso de Udemy *Python for Data Science a
    - 4.10.  Natural Language Processing	
 5. Big Data and Spark with Python
 6. Deep Learning
+
+El certificado se encuentra en:
+
+https://www.udemy.com/certificate/UC-NNQ5W64L/
