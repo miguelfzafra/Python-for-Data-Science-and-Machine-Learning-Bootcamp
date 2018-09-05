@@ -6,9 +6,9 @@ Contiene los notebooks y la teoría del curso de Udemy *Python for Data Science a
 
 1. Python Crash Course
 2. Python for Data Analysis
-2.1. Numpy
-2.2. Pandas
-2.3. Scipy
+   - 2.1. Numpy
+   - 2.2. Pandas
+   - 2.3. Scipy
 3. Python for Data Visualization
 3.1. Matplotlib
 3.2. Seaborn
